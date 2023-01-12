@@ -1,0 +1,43 @@
+input{
+    font-size: medium;
+    padding: 5px;
+    margin: 2px;
+    
+  }
+  .f{
+    background-color: rgb(177, 169, 155);
+    position: absolute;
+    right: 17cm;
+    left: 17cm;
+    width: 10cm;
+    align-items: center;
+    align-content: center;
+    border-radius: 3px;
+    padding: 1ch;
+  }
+  .form{
+    background-color: rgb(77, 144, 163);
+    position: absolute;
+    margin-top: 4cm;
+    right: 17cm;
+    left: 17cm;
+    width: 10cm;
+    align-items: center;
+    align-content: center;
+    border-radius: 3px;
+    padding: 1ch;
+  }
+
+  .carda{
+    background-color: rgb(139, 116, 88);
+    margin-left: 17cm;
+    margin-right: 17cm;
+    margin-top: 2cm;
+    margin-bottom: 4;
+    width: 15cm;
+    height: 15cm;
+    text-align: center;
+    color:rgb(254, 254, 253); 
+    padding: 1cm;
+    gap: '2rem'
+  }
