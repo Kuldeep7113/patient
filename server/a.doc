@@ -1,0 +1,23 @@
+Today,
+1. Created Express server to connect Db
+2. Tested Apis of BDSA On their site postman
+3 Tested Apis of BDSA On their site postman
+4. Generated Authorization token from the client by static key
+5. Worked on pulling data from Amazon SQL to Azure SQL we have created along with @karthik sir
+  - Created Azure Data Factory pipeline to fetch data from Amazon RDS SQL to Azure SQL
+  -  Working on resolving firewall issues in AWS RDS for Integration runtime access.
+  Shared findings with the team 
+
+
+
+karthik
+Today:
+1. Worked on to pull data from Amazon SQL to Azure SQL we have created so far
+  - Created Azure Data Factory pipeline to fetch data from Amazon RDS SQL to Azure SQL
+  -  Working on to resolve firewall issues in AWS RDS for Integration runtime access.
+  Shared findings with the team
+2. Reviewed BDSA details shared by Jason.
+Tomorrow:
+1. Will set up and configure Integration runtime and proceed with pulling data from AWS RDS SQL to Azure SQL DB once get instance confirmation.
+Any blocker:
+None
